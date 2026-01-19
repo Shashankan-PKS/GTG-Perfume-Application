@@ -379,6 +379,7 @@
 .prod-sect .product-right .prod-overview .overview-review{
     display: flex;
     align-items: center;
+    column-gap : 10px;
 }
 
 .prod-sect .product-right .prod-overview .overview-review .review-image{
@@ -1633,4 +1634,5 @@ th.gtg {
 
 
 /* footer content end */
+
 
