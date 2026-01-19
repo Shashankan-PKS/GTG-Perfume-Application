@@ -1375,6 +1375,12 @@
     width: 30%;
 }
 
+.label-left {
+    color : rgb(102, 102, 102);
+}
+.label{
+    color : rgb(50,45,45);
+}
 
 .product {
     padding-top: 28px;
@@ -1634,5 +1640,6 @@ th.gtg {
 
 
 /* footer content end */
+
 
 
