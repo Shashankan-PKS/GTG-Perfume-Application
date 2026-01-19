@@ -8,7 +8,7 @@
 }
 .header{
     height: 100vh;
-    background-image: url(../assets/Image_fx_header.png);
+    background-image: url("../assets/Image_fx_header.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -1633,3 +1633,4 @@ th.gtg {
 
 
 /* footer content end */
+
